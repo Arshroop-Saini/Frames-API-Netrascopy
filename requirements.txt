@@ -2,5 +2,3 @@ Flask
 opencv-python-headless
 gunicorn
 cloudinary==1.30.0
-cloudinary.uploader
-cloudinary.api
