@@ -1,0 +1,6 @@
+Flask
+opencv-python-headless
+gunicorn
+cloudinary
+cloudinary.uploader
+cloudinary.api
