@@ -42,7 +42,7 @@ def generate():
     list=[]
     currentframe = 0
     i=0
-    while(i<4):
+    while(i<31):
         
         # reading from frame
         ret,frame = cam.read()
